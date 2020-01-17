@@ -1,0 +1,1 @@
+Hi Charlotte! You should be able to run the task straight from the e-prime script file (using e-run). If not, just open e-studio and open the files from there, generate the script if necessary, and run from there. There are two separate task files but they are exactly the same task, just with different stimuli (one for schemas, one for categories). 
